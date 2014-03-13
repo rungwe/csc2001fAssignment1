@@ -27,6 +27,7 @@ public class Question2
 		
 	else if (thirdNumber < secondNumber && secondNumber < firstNumber)
 		System.out.println(thirdNumber+" "+secondNumber+" "+firstNumber);
+	
 	}
 }
 	
